@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jasperanger@hotmail.de
+	name = Jasper Anger
